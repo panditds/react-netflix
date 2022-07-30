@@ -1,6 +1,3 @@
-// import React from 'react';
-// import Form from './Form';
-
 const Data =[
     {
       imgscr:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6d2s0GY2VDEf9ldU_vycF3FF1c9fVsOYvsg&usqp=CAU',
@@ -38,7 +35,5 @@ const Data =[
     }
 
 ]
-
-
 
 export default Data;

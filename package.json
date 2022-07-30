@@ -1,8 +1,9 @@
 {
   "dependencies": {
     "Babel": "^0.0.1",
-    "bootstrap": "^5.1.3",
+    "bootstrap": "^5.2.0",
     "react": "^18.0.0-beta-24dd07bd2-20211208",
+    "react-bootstrap": "^2.4.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.3.0",
     "react-scripts": "^5.0.1"
